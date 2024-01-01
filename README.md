@@ -25,5 +25,3 @@ Key areas of investigation include:
 
 Before executing the notebook, please extract the [dataset](data.zip) files.
 
-
-### Results
